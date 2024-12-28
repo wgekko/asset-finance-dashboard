@@ -1,5 +1,6 @@
 streamlit
 pandas
+plotly
 plotly-express
 matplotlib-colors
 base64
@@ -11,10 +12,9 @@ sklearn
 sklearn.ensemble 
 scipy.stats
 streamlit-extras
-seabonr
+seaborn
 openpyxl
 Plost
-plotly
 scikit-learn
 scipy
 statsmodels
