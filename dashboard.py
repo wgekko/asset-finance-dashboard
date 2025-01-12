@@ -157,8 +157,13 @@ particles_js = """<!DOCTYPE html>
 </html>
 """
 
+
 st.set_page_config(page_title="Dashboard", page_icon="img/dashboard.png", layout="wide")
 #components.html(particles_js, height=150,scrolling=False)
+
+#streamlit theme=none
+theme_plotly = None 
+
 
 #""" imagen de background"""
 def add_local_background_image(image):
