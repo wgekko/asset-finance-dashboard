@@ -30,6 +30,10 @@ rango de rentabilidad. Sector Inmobiliario: análisis de propiedades más demand
 predecir potenciales sectores urbanísticos y rurales con crecimiento esperado. etc
 
 
+https://github.com/user-attachments/assets/6f83dfaf-a256-4e99-ad7b-a76655782a1a
+
+
+
 
 
 
