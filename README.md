@@ -20,6 +20,8 @@ secondaryBackgroundColor="black"
 textColor="#CBC917"
 font="sans serif"
 
+link demo de la app : https://asset-financial.streamlit.app/
+
 --------------------------------------------------------------------
 Esta app tiene múltiples aplicaciones (o se puede adaptar) o para distintos sectores Sector Salud: análisis por rango de edad, patologías ambulatorias, 
 patologías complejas -determinar tendencia- predecir tasas de crecimiento o no de enfermedades o patológicas medir y también anticipar potenciales patologías 
